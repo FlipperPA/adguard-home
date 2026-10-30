@@ -1,0 +1,4 @@
+! Turn this on to block these sites.
+||scratch.mit.edu^
+||bandlab.com^
+||pinterest.com^
